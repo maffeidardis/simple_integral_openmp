@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1593017108 source:c:\users\thiago - desktop\desktop\ufscar\aciepe programação\trabalho final\projetofinal\main.cpp
+	<iostream>
+	<math.h>
+	<omp.h>
+	<chrono>
+
+1592858567 source:c:\users\thiago - desktop\desktop\ufscar\aciepe programação\trabalho final\projetofinal\exemplo.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
